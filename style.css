@@ -1,0 +1,19 @@
+.background{
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  text-align: center;
+  font-family: Raleway, sans-serif;
+  background: linear-gradient(to right, #561364, #00ff33);
+}
+
+h1, h3{
+  font-weight: 300;
+}
+
+.button--random {
+    margin: 10px;
+    padding: 10px;
+}
